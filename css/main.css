@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #efefef;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -54,19 +54,85 @@ ul.posts span {
   font-size: 80%;
 }
 
+
+/*****************************************************************************/
+/*
+/* Container
+/*
+/*****************************************************************************/
+
+.container {
+  /**
+  width: 300px;
+  padding-left: 10px;
+  padding-right:10px;
+  
+  margin: auto;	
+ **/
+}
+
+
 /*****************************************************************************/
 /*
 /* Site
 /*
 /*****************************************************************************/
 
+
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  background-color: #fff;
+  width: 40em;
+  padding:2em;
+  /**
+  width: 300px;
+  **/
   margin: 3em auto 2em;
+  box-shadow: -4px -4px 20px #888888;
+  
   line-height: 1.5em;
 }
+
+@media only screen and (min-device-width: 320px)
+and (max-device-width: 480px)
+{
+	.site {
+		outline: 0px dotted red;
+		width: 16em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media only screen and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (orientation: landscape )
+{
+	.site {
+		outline: 0px dotted orange;
+		width: 25em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+
+
+/**
+@media only screen and (min-device-width: 321px){
+	.site {
+		outline: 1px dotted blue;
+		width: 42em;
+		/**
+		margin-left: 10px;
+		margin-right: 0;
+		**/
+	}
+}
+**/
+
+
 
 .site .header a {
   font-weight: bold;
