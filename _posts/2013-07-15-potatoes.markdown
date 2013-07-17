@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Potatoe
+title: Potato
 categories: food
 ---
 
-# [How the potatoe changed the world](http://www.smithsonianmag.com/history-archaeology/How-the-Potato-Changed-the-World.html#ixzz2Z8YskIBk  "How potatoes changed the world" )
+# [How the potato changed the world](http://www.smithsonianmag.com/history-archaeology/How-the-Potato-Changed-the-World.html#ixzz2Z8YskIBk  "How potatoes changed the world" )
 
 > Brought to Europe from the New World by Spanish explorers, 
 > the lowly potato gave rise to modern industrial agriculture

@@ -46,6 +46,7 @@ ul.posts {
 
 ul.posts li {
   line-height: 1.75em;
+   margin-bottom: 50px;
 }
 
 ul.posts span {
