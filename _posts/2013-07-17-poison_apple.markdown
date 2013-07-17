@@ -11,6 +11,6 @@ categories: food
 >  for example, the tomato garnered a shady reputation for being both
 >  poisonous and a source of temptation.
 
-Deep dive into the Tomato story at [smithsonian.com](http://smithsonianmag.com). For a couple of centuries at least 
-European farmers didn't quite know what to make of the tomato. Even when they grew it, they weren't sure how to consume it.
+Deep dive into the Tomato story at [smithsonian.com](http://smithsonianmag.com). For a couple of centuries at least, 
+european farmers didn't quite know what to make of the tomato. Even when they grew it, they weren't sure how to consume it.
     
