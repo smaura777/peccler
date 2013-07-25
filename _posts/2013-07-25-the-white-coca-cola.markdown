@@ -3,7 +3,7 @@ layout: post
 title: Clear Coke 
 categories: drink
 ---
-![Soviet Coke](images/coca_cola_ussr.jpg)
+![Soviet Coke](/images/coca_cola_ussr.jpg)
 # Once upon a time:  The white or rather clear Coca-Cola of the 1940's
 
 > When Gen. Dwight D. Eisenhower introduced Coke to Zhukov, the Russian liked it. 
